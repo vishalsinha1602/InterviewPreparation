@@ -1,6 +1,6 @@
 ## Top 100 Networking Interview Questions & Answers
 
-#### source: http://career.guru99.com/
+#### important: https://magical-buttercup-649.notion.site/NETWORKING-3d6498d3d3758005ac48d7714eb11662
 
 ### 1) What is a Link?
 
